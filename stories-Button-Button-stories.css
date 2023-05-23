@@ -1,0 +1,26 @@
+.rxints0 {
+  width: -webkit-max-content;
+  width: max-content;
+  max-width: 100%;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  border-radius: 34px;
+  cursor: pointer;
+  font-family: Poppins, sans-serif;
+  margin: 0;
+  font-size: 20px;
+  text-transform: none;
+  font-weight: 600;
+  padding: 6px 20px;
+}
+.rxints0:hover {
+  background: #82aeda;
+  color: #ffffff;
+}
+.rxints0:disabled {
+  color: dark-gray;
+  background: gray;
+}
+
+/*# sourceMappingURL=stories-Button-Button-stories.css.map*/
